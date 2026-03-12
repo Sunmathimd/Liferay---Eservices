@@ -117,7 +117,7 @@ After submission, the system generates a **Tracking ID** for monitoring the appl
 
 Displays all available services with **Apply Now** and **Learn More** options.
 
-![Service Listing](images/service-list.png)
+![Service Listing](screenshots/service-listing.png)
 
 ---
 
@@ -125,7 +125,7 @@ Displays all available services with **Apply Now** and **Learn More** options.
 
 Shows detailed service information including required documents.
 
-![Service Details](images/service-details.png)
+![Service Details](screenshots/service-details.png)
 
 ---
 
@@ -133,7 +133,7 @@ Shows detailed service information including required documents.
 
 Users can track submitted applications using tracking ID.
 
-![Track Applications](images/track-applications.png)
+![Track Applications](screenshots/track-applications.png)
 
 ---
 
@@ -146,6 +146,3 @@ Users can track submitted applications using tracking ID.
 
 ---
 
-# Author
-
-Developed as part of a **Liferay E-Services Portal project**.
